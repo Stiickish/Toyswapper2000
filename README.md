@@ -1,0 +1,2 @@
+# Toyswapper2000
+Toy-swap app. When the child is bored of their old toy, their parents can put a picture up on the app, and search for a fitting toy to swap with. The user can see the database without logging in, but must create a user and login to use further features. Before logging in, the user can use the search function, and after putting in a destination, the user can see available toys in the given area. After logging in, the user can upload pictures of their toy, write questions to the other users and arrange pickup of the toys they are interested in.
