@@ -1,0 +1,23 @@
+@startuml
+
+class User
+class Toy
+
+
+User : - int id
+User : - String name
+User : - int role
+User : - int zip
+User : - String city
+User : - String email
+User : - String phone
+
+Toy : - int id
+Toy : - String type
+Toy : - String name
+Toy : - String image_url
+
+User *--* Toy
+
+
+@enduml
